@@ -1,3 +1,13 @@
+Introducing Laravel: Part 2 - Routing, Blade and Laravel Mix
+
+---
+
+This repository is the companion of the blog post over on the Assortment website.
+
+[View the blog post](https://assortment.io/posts/introducing-laravel-part-2-routing-blade-mix)
+
+---
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
