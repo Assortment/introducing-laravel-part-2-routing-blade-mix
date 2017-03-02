@@ -1,4 +1,4 @@
-Introducing Laravel: Part 2 - Routing, Blade and Laravel Mix
+# Introducing Laravel: Part 2 - Routing, Blade and Laravel Mix
 
 ---
 
